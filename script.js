@@ -9,5 +9,5 @@ toggleButton.addEventListener('click', function() {
 
 const infoButton = document.getElementById('showInfo');
 infoButton.addEventListener('click', function() {
-    alert('Nama: Febrian Iradatul Rahman\nKelas: Sistem Informasi 2018, Universitas Teknologi Indonesia');
+    alert('Nama: Febrian Iradatul Rahman\nKelas: Sistem Informasi 2018, Universitas Ma'soem);
 });
